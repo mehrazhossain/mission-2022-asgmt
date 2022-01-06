@@ -144,27 +144,6 @@ h3 {
 }
 /* Community-Section End */
 
-/* Footer Start */
-footer {
-  text-align: center;
-  padding: 5%;
-  background-color: #202124;
-  margin-top: 50px;
-}
-h2 {
-  font-size: 30px;
-  color: #dfe4ea;
-}
-.footnote {
-  padding-top: 10px;
-  color: #dfe4ea;
-}
-.year {
-  font-size: 30px;
-  color: #ff612e;
-}
-/* Footer End */
-
 /* Customer Support Start */
 .customer-support {
   display: flex;
@@ -220,3 +199,24 @@ h3 {
   padding-top: 20px;
 }
 /* Customer Support End */
+
+/* Footer Start */
+footer {
+  text-align: center;
+  padding: 5%;
+  background-color: #202124;
+  margin-top: 50px;
+}
+h2 {
+  font-size: 30px;
+  color: #dfe4ea;
+}
+.footnote {
+  padding-top: 10px;
+  color: #dfe4ea;
+}
+.year {
+  font-size: 30px;
+  color: #ff612e;
+}
+/* Footer End */
